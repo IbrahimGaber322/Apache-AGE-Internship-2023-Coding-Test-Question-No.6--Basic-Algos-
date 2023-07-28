@@ -17,7 +17,7 @@ This function takes input from the user and checks if it is a palindrome. If the
 
 ### Function Name: checkMissing(arr)
 
-This function finds a missing integer from an array of the first 45 numbers (with one missing number).
+This function finds a missing integer from an array of the first 45 numbers.
 
 **Usage:**
 1. Open the browser console or use any JavaScript environment.
