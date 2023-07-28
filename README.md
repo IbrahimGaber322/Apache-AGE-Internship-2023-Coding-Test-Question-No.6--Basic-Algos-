@@ -22,7 +22,7 @@ This function finds a missing integer from an array of the first 45 numbers (wit
 **Usage:**
 1. Open the browser console or use any JavaScript environment.
 2. Copy and paste the code from `Question 6-2.js`.
-3. Create an array with the first 44 numbers and leave one number missing.
+3. Create an array with the first 45 numbers and leave one number missing.
 4. Call the `checkMissing(arr)` function with the array as an argument.
 
 ## Question 6-3: JavaScript Digital Clock
